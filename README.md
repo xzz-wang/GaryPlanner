@@ -1,6 +1,8 @@
 # GaryPlanner
 The revolutional project for CSE 110 brought by P&C.
 
+*Introduction Video:* https://youtu.be/AetrEdn_Tm4?t=30
+
 ## Installation Procedure
 
 Install Docker from https://www.docker.com/get-started 
